@@ -51,7 +51,7 @@ The output should be (formatted in JSON for convenience):
     "position": 1,
     "lessons": [
       {"name": "Welcome", "position": 1},
-      {"name": "Installation", "position": 2},
+      {"name": "Installation", "position": 2}
     ]
   },
 
